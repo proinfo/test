@@ -1,2 +1,3 @@
 1 verzija
 2 verzija
+dodajem na DEV
