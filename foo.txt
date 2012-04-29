@@ -1,3 +1,4 @@
 1 verzija
 2 verzija
 Dodajem na mester
+dodajem na DEV
